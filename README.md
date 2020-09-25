@@ -1,6 +1,6 @@
 ### G'day 👋
 
-- 🔭 I’m currently a first-year Computer Science student from down under, keen to learn as much as I can.
+- 🏫 I’m currently a first-year Computer Science student from down under, keen to learn as much as I can.
 - 🌱 I’m currently learning
   - Python (intermediate-level knowledge)
   - C++ (Beginner's level)
