@@ -1,7 +1,5 @@
 # G'day 👋
 
-![](https://komarev.com/ghpvc/?username=njsch&label=PROFILE+VIEWS)
-
 * 🏫 I’m currently a first-year Computer Science student from down under, keen to learn as much as I can.
 * 🌱 I’m currently learning
     * Python (intermediate-level knowledge)
@@ -15,9 +13,7 @@
 ## 📫 How to reach me:
 Email me (either schmidty2244 [at] gmail.com, or njschmidt [at] deakin.edu.au).
 
-Contact me via LinkedIn:
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="njsch"><a class="LI-simple-link" href='https://au.linkedin.com/in/njsch?trk=profile-badge'>Nathaniel Schmidt</a></div>
+Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
 
 Contact me via my [Deakin University student public profile](https://sync.deakin.edu.au/profiles/student/njschmidt/)
 
