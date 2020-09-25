@@ -1,16 +1,27 @@
-### Hi there 👋
+### G'day 👋
 
-<!--
-**njsch/njsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a first-year Computer Science student from down under, keen to learn as much as I can.
+- 🌱 I’m currently learning
+  - Python (intermediate-level knowledge)
+  - C++ (Beginner's level)
+  - Arduino hardware and software solutions (beginner's level)
+  - Oracle SQL (SQLPlus) &ndash; intermediate level
+- 👨 I’m looking to collaborate on software development projects &ndash; whether open-source or otherwise &ndash; in Python or C++.
+- 🤔 I am very willing to learn new languages and libraries
+- 💬 Ask me anything...
 
-Here are some ideas to get you started:
+#### 📫 How to reach me:
+Email me (either schmidty2244 [at] gmail.com, or njschmidt [at] deakin.edu.au).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
+
+][Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
+
+#### Affiliations
+Member of the Australian Computer Society (ACS) since Aug 2020
+
+#### Current Projects
+* [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
+* [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
+* [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
+* [Latex-access-matrix](https://github.com/njsch/latex-access-matrix): Predominantly NVDA-centric Line-by-line realtime translator of LaTeX typesetting into various forms of Braille and speech; matrix browser and potential up-coming preprocessor for custom commands.
