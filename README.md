@@ -15,7 +15,7 @@ Email me (either schmidty2244 [at] gmail.com, or njschmidt [at] deakin.edu.au).
 
 Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
 
-][Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
+[Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
 #### Affiliations
 Member of the Australian Computer Society (ACS) since Aug 2020
