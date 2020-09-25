@@ -5,7 +5,7 @@
   - Python (intermediate-level knowledge)
   - C++ (Beginner's level)
   - Arduino hardware and software solutions (beginner's level)
-  - Oracle SQL (SQLPlus) &ndash; intermediate level
+  - SQL (Oracle SQLPlus) &ndash; intermediate level
 - 👨 I’m looking to collaborate on software development projects &ndash; whether open-source or otherwise &ndash; in Python or C++.
 - 🤔 I am very willing to learn new languages and libraries
 - 💬 Ask me anything...
@@ -18,7 +18,7 @@ Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
 [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
 #### Affiliations
-Member of the Australian Computer Society (ACS) since Aug 2020
+* Member of the Australian Computer Society (ACS) since 21 Aug 2020 &ndash; member no.: #4269469
 
 #### Current Projects
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
