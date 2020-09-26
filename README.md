@@ -21,7 +21,7 @@ Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitB
 [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
 ## Affiliations
-* Member of the Australian Computer Society (ACS) since 21 Aug 2020 &ndash; member no.: #4269469
+* Student member of the Australian Computer Society (ACS) since 21 Aug 2020 &ndash; member no.: #4269469
 
 ## Current Projects
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
