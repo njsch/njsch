@@ -21,7 +21,7 @@ Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitB
 
 [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
-[Similar reiterations appear on [About.me](https://about.me/njschmidt).
+Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
 #### Affiliations
 * Student member of the Australian Computer Society (ACS) since 21 Aug 2020 &ndash; member no.: #4269469
