@@ -1,4 +1,4 @@
-# G'day 👋
+### G'day 👋
 
 * 🏫 I’m currently a first-year Computer Science student from down under, keen to learn as much as I can.
 * 🌱 I’m currently learning
@@ -10,20 +10,23 @@
 * 🤔 I am very willing to learn new languages and libraries
 * 💬 Ask me anything...
 
-## 📫 How to reach me:
-Email me (either schmidty2244 [at] gmail.com, or njschmidt [at] deakin.edu.au).
+#### 📫 How to reach me:
+Email me (see above).
 
 Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
 
 Contact me via my [Deakin University student public profile](https://sync.deakin.edu.au/profiles/student/njschmidt/)
 
-Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitBucket](https://bitbucket.org/njsch/), [GitLab](https://gitlab.com/njsch), or on the [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/).
+Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitBucket](https://bitbucket.org/njsch/), [GitLab](https://gitlab.com/njsch), or on the [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/); though I don't usually do much on platforms other than GitHub.
+
 [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
-## Affiliations
+[Similar reiterations appear on [About.me](https://about.me/njschmidt).
+
+#### Affiliations
 * Student member of the Australian Computer Society (ACS) since 21 Aug 2020 &ndash; member no.: #4269469
 
-## Current Projects
+#### Current Projects
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
 * [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
 * [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
