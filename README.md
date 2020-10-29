@@ -28,6 +28,7 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 
 #### Current Projects
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
+* [LibLouis](https://github.com/njsch/liblouis/): Open-source braille translator and back-translator
 * [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
 * [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
 * [Latex-access-matrix](https://github.com/njsch/latex-access-matrix): Predominantly NVDA-centric Line-by-line realtime translator of LaTeX typesetting into various forms of Braille and speech; matrix browser and potential up-coming preprocessor for custom commands.
