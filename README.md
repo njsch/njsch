@@ -21,6 +21,8 @@ Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitB
 
 [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
+<a rel="me" href="https://mastodon.online/@njschmidt">Try Mastodon (experimental).</a>
+
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
 #### Affiliations
