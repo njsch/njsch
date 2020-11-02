@@ -31,6 +31,7 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since 21 Aug 2020 &ndash; member no.: #4269469
 * Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/)
 * Member of the [Deakin University Student Association (DUSA)](https://dusa.org.au/)
+* Member of [Blind Information Technology Specialists (BITS)](https://bits-acb.org/)
 
 #### Current Projects
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
