@@ -29,7 +29,7 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 
 #### Affiliations
 * Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since 21 Aug 2020 &ndash; member no.: #4269469
-* Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/)
+* Student member of the Deakin Launch Network ([website](https://launchnetwork.deakin.edu.au/), [LinkedIn group](https://www.linkedin.com/groups/13880585/) and [MS Teams team](https://teams.microsoft.com/l/team/19%3a617e4f5e9bcf4ae7914a2af2e929b668%40thread.tacv2/conversations?groupId=ff8f792d-82c8-4bb4-96ca-db5427406563&tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6))
 * Member of the [Deakin University Student Association (DUSA)](https://dusa.org.au/)
 * Member of [Blind Information Technology Specialists (BITS)](https://bits-acb.org/)
 
