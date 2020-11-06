@@ -4,10 +4,10 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 
 * 🏫 I’m currently a first-year Computer Science student from down under, keen to learn as much as I can.
 * 🌱 I’m currently learning
-    * Python (intermediate-level knowledge)
-    * C++ (Beginner's level)
-    * Arduino hardware and software solutions (beginner's level)
-    * SQL (Oracle SQLPlus) &ndash; intermediate level
+    * Python (intermediate)
+    * C++ (elementary)
+    * Arduino hardware and software (elementary)
+    * SQL (Oracle SQLPlus) &ndash; intermediate)
 * 👨 I’m looking to collaborate on software development projects &ndash; whether open-source or otherwise &ndash; in Python or C++.
 * 🤔 I am very willing to learn new languages and libraries
 * 💬 Ask me anything...
