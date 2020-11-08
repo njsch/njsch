@@ -38,5 +38,5 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * [LibLouis](https://github.com/njsch/liblouis/): Open-source braille translator and back-translator
 * [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
 * [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
-* [Latex-access-matrix](https://github.com/njsch/latex-access-matrix): Predominantly NVDA-centric Line-by-line realtime translator of LaTeX typesetting into various forms of Braille and speech; matrix browser and potential up-coming preprocessor for custom commands.
-* [Latex-access](http://latex-access.sourceforge.net/): mother project for latex-access-matrix, containing my original contributions, providing easy on-the-fly braille and speech access to LaTeX documents
+* [Latex-access](http://latex-access.sourceforge.net/): Contains my original contributions, providing easy on-the-fly braille and speech access to LaTeX documents
+  * NOTE: The original project is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA.
