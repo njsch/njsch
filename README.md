@@ -2,6 +2,8 @@
 
 The owner's identity for this account has been verified at [Keyoxide](https://keyoxide.org/6C1E7CD8370E4DF7F852968716F8388EB88796D7).
 
+[View my portfolio on Portfolium](https://portfolium.com/njschmidt/).
+
 * 🏫 I am an undergraduate Computer Science student from down under, keen to learn as much as I can.
 * 🌱 I’m currently learning
     * Python (intermediate)
