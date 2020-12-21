@@ -33,6 +33,7 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since 21 Aug 2020 &ndash; member no.: #4269469
 * Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/)
 * Contributor to [Eduvis](https://github.com/eduvis/): Empowering students who have impaired vision -- provides inclusive and accessible education support for usable numeracy & Physical Education strategies.
+* Associate member of [Auda (AU Domain Administration)](https://www.auda.org.au/)
 * Member of the [Deakin University Student Association (DUSA)](https://dusa.org.au/)
 * Member of [Blind Information Technology Specialists (BITS)](https://bits-acb.org/)
 
