@@ -41,6 +41,7 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
 * [Latex-access](http://latex-access.sourceforge.net/): Contains my original contributions, providing easy on-the-fly braille and speech access to LaTeX documents
   * NOTE: The original project is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA.
+* [Camel](https://github.com/njsch/camel/): An old MS Dos game ported to Python, translated from Rapid Euphoria
 * The [Eduvis](https://github.com/eduvis/eduvis.github.io/) website
 * [LibLouis](https://github.com/njsch/liblouis/): Open-source braille translator and back-translator
 * [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
