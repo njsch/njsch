@@ -8,6 +8,7 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 * 🌱 I’m currently learning
     * Python (intermediate)
     * C++ (elementary)
+    * C# (elementary)
     * Arduino hardware and software (elementary)
     * SQL (Oracle SQLPlus) &ndash; elementary)
 * 👨 I’m looking to collaborate on software development projects &ndash; whether open-source or otherwise &ndash; in Python or C++.
