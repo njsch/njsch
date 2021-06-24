@@ -47,6 +47,6 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
 * [vce-cas-consids-opts_vid-transcript-docs](https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs): Transcript for associated Videos
 * [latex_guide](https://github.com/eduvis/latex_guide): A user guide for secondary high school students on how to typeset in LaTeX, specifically tailored to Australian (especially the Victorian) mainstream curriculum
+* [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
 * [LibLouis](https://github.com/njsch/liblouis/): Open-source braille translator and back-translator
-* [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
