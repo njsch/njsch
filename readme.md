@@ -5,6 +5,9 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 [View my portfolio on Portfolium](https://portfolium.com/njschmidt/).
 
 * 🏫 I am an undergraduate Computer Science student from down under, keen to learn as much as I can.
+    * Explanation of Github Profile Statuses
+        * If I am “on [my] uni break” then I am free to be accessed for interactions on code discussions, reviews and actual development.
+        * If I am “studying” then I will have limited time to access Github interactions.
 * 🌱 I’m currently learning
     * Python (intermediate)
     * C++ (elementary)
@@ -25,8 +28,6 @@ Contact me via my [Deakin University student public profile](https://sync.deakin
 Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitBucket](https://bitbucket.org/njsch/), [GitLab](https://gitlab.com/njsch), or on the [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/); though I don't usually do much on platforms other than GitHub.
 
 [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
-
-<a rel="me" href="https://mastodon.online/@njschmidt">Try Mastodon (experimental).</a>
 
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
