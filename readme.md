@@ -23,8 +23,6 @@ Email me (see above).
 
 Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
 
-Contact me via my [Deakin University student public profile](https://sync.deakin.edu.au/profiles/student/njschmidt/)
-
 Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitBucket](https://bitbucket.org/njsch/), [GitLab](https://gitlab.com/njsch), or on the [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/); though I don't usually do much on platforms other than GitHub.
 
 [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
