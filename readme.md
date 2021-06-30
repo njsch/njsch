@@ -7,7 +7,7 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 * 🏫 I am an undergraduate Computer Science student from down under, keen to learn as much as I can.
     * Explanation of Github Profile Statuses
         * If I am “on [my] uni break” then I am free to be accessed for interactions on code discussions, reviews and actual development.
-        * If I am “studying” then I will have limited time to access Github interactions.
+        * If I am “currently studying” then I will have limited time to access Github interactions.
 * 🌱 I’m currently learning
     * Python (intermediate)
     * C++ (elementary)
