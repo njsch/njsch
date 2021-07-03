@@ -49,3 +49,4 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
 * [LibLouis](https://github.com/njsch/liblouis/): Open-source braille translator and back-translator
+* [lbcf](https://github.com/njsch/lbcf/): Different source and output formats for the 1677-89 LBC, or 2LBCF
