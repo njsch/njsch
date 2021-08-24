@@ -30,12 +30,12 @@ Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitB
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
 #### Affiliations
-* Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since 21 Aug 2020
-* Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/)
-* Contributor to [Eduvis](https://github.com/eduvis/): Empowering students who have impaired vision -- provides inclusive and accessible education support for usable numeracy & Physical Education strategies.
+* Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since Aug 2020
+* Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/) since Nov. 2020
 * Associate member of [Auda (AU Domain Administration)](https://www.auda.org.au/)
-* Member of the [Deakin University Student Association (DUSA)](https://dusa.org.au/)
-* Member of [Blind Information Technology Specialists (BITS)](https://bits-acb.org/)
+* Casual Deakin University staff collaborator, Students as Partners projects.
+* Contributor to [Eduvis](https://github.com/eduvis/): Empowering students who have impaired vision, provides inclusive and accessible educational resources and strageties for independdent study in fields of numeracy & Physical Education.
+* Student member of [Blind Information Technology Specialists (BITS)](https://bits-acb.org/)
 
 #### Projects Available for Viewing
 * [Latex-access](http://latex-access.sourceforge.net/): Contains my original contributions, providing easy on-the-fly braille and speech access to LaTeX documents
