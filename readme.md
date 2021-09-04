@@ -1,4 +1,4 @@
-### G'day 👋
+## G'day 👋
 
 The owner's identity for this account has been verified at [Keyoxide](https://keyoxide.org/6C1E7CD8370E4DF7F852968716F8388EB88796D7).
 
@@ -18,7 +18,7 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 * 🤔 I am very willing to learn new languages and libraries
 * 💬 Ask me anything...
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 Email me (see above).
 
 Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
@@ -29,7 +29,7 @@ Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitB
 
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
-#### Affiliations
+### Affiliations
 * Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since Aug 2020
 * Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/) since Nov. 2020
 * Associate member of [Auda (AU Domain Administration)](https://www.auda.org.au/)
@@ -37,7 +37,7 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * Contributor to [Eduvis](https://github.com/eduvis/): Empowering students who have impaired vision, provides inclusive and accessible educational resources and strageties for independdent study in fields of numeracy & Physical Education.
 * Student member of [Blind Information Technology Specialists (BITS)](https://bits-acb.org/)
 
-#### Projects Available for Viewing
+### Projects Available for Viewing
 * [Latex-access](http://latex-access.sourceforge.net/): Contains my original contributions, providing easy on-the-fly braille and speech access to LaTeX documents
   * NOTE: The original project is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA.
 * [Camel](https://github.com/njsch/camel/): An old MS Dos game ported to Python, translated from Rapid Euphoria
