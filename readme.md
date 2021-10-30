@@ -39,7 +39,6 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
   * NOTE: The original project is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA.
 * [Camel](https://github.com/njsch/camel/): An old MS Dos game ported to Python, translated from Rapid Euphoria
 * [py_algs-dat-structs](https://github.com/njsch/py_algs-dat-structs/): implementations of various algorithms and data structures in Python
-* The [Eduvis](https://github.com/eduvis/eduvis.github.io/) website
 * [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
 * [braille-Soft](https://github.com/njsch/braille-Soft): modern port of BrailleSoft games in Python
 * [vce-cas-consids-opts_vid-transcript-docs](https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs): Transcript for associated Videos
