@@ -30,9 +30,8 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since Aug 2020
 * Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/) since Nov. 2020
 * Associate member of [Auda (AU Domain Administration)](https://www.auda.org.au/)
-* Casual Deakin University student collaborator (casual professional / staff), Students With Assistive Technology, Students as Partners projects.
+* Deakin University Casual Professional, Students as Partners projects.
 * Contributor to [Eduvis](https://github.com/eduvis/): Empowering students who have impaired vision, provides inclusive and accessible educational resources and strageties for independdent study in fields of numeracy & Physical Education.
-* Student member of [Blind Information Technology Specialists (BITS)](https://bits-acb.org/)
 
 ### Projects Available for Viewing
 * [Latex-access](http://latex-access.sourceforge.net/): Contains my original contributions, providing easy on-the-fly braille and speech access to LaTeX documents
