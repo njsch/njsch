@@ -18,8 +18,8 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 ### 📫 How to reach me:
 * Email me:
     * [Gmail](MAILTO:schmidty2244@gmail.com)
-    * [Deakin student email](njschmidt@deakin.edu.au)
-    * [Deakin student-staff email](n.schmidt@deakin.edu.au)
+    * [Deakin student email](MAILTO:njschmidt@deakin.edu.au)
+    * [Deakin student-staff email](MAILTO:n.schmidt@deakin.edu.au)
 * Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
 * Follow my activity on
     * [SourceForge](https://sourceforge.net/u/njschmidt/)
