@@ -16,13 +16,17 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 * 💬 Ask me anything...
 
 ### 📫 How to reach me:
-Email me (see above).
-
-Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
-
-Follow my activity on [SourceForge](https://sourceforge.net/u/njschmidt/), [BitBucket](https://bitbucket.org/njsch/), [GitLab](https://gitlab.com/njsch), or on the [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/); though I don't usually do much on platforms other than GitHub.
-
-[Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
+* Email me:
+    * [Gmail](MAILTO:schmidty2244@gmail.com)
+    * [Deakin student email](njschmidt@deakin.edu.au)
+    * [Deakin student-staff email](n.schmidt@deakin.edu.au)
+* Connect and message via [my LinkedIn](https://www.linkedin.com/in/njsch/).
+* Follow my activity on
+    * [SourceForge](https://sourceforge.net/u/njschmidt/)
+    * [BitBucket](https://bitbucket.org/njsch/)
+    * [GitLab](https://gitlab.com/njsch), or
+    * [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/), though I don't usually do much on platforms other than GitHub.
+* [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
