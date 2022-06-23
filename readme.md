@@ -34,19 +34,19 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 * Deakin University Casual Professional, Students as Partners projects.
 
 ### Projects Available for Viewing
-* [Latex-access](http://latex-access.sourceforge.net/): Contains my original contributions, providing easy on-the-fly braille and speech access to LaTeX documents
-  * NOTE: The original project is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA.
+* [Latex-access](https://github.com/latex-access/latex-access): Contains my original [contributions](https://github.com/latex-access/latex-access/commits?author=njsch), providing easy on-the-fly braille and speech access to LaTeX documents
+  * NOTE: The [original project](http://latex-access.sourceforge.net/) is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA, or consult the repo on the above-linked Github organisation page for on-going activity.
 * [Camel](https://github.com/njsch/camel/): An old MS Dos game ported to Python, translated from Rapid Euphoria
-* [py_algs-dat-structs](https://github.com/njsch/py_algs-dat-structs/): implementations of various algorithms and data structures in Python
 * [nvst](https://github.com/njsch/nvst): Nonvisual Smart Terrarium, for Reptile enclosures
 * [Sensibo-cli](https://github.com/njsch/sensibo-cli): Command-line client for Sensibo hardware devices.
 * [Horcker](https://github.com/njsch/horcker): Track your progress and read using Grant Horner of TMS/TMU's Bible reading system
 * [DFRobot_MQ7_CO_data_logging](https://github.com/njsch/DFRobot_MQ7_CO_data_logging): Data logging (via Arduino data logging shield) code for the DFRobot Analog Carbon Monoxide Sensor (MQ7)
-* [braille-Soft](https://github.com/njsch/braille-Soft): modern port of BrailleSoft games in Python
+* [lbcf](https://github.com/njsch/lbcf/): Different source and output formats for the 1677-89 LBC, or 2LBCF. Some of my contributions have been [merged into the original repo](https://github.com/lwalen/lbcf/commits?author=njsch).
 * [let2par](https://github.com/njsch/let2par): An archive of the letters I have written to parliament and allowed to be made public. This is the public archive used for my site.
 * [vce-cas-consids-opts_vid-transcript-docs](https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs): Transcript for associated Videos
 * [latex_guide](https://github.com/eduvis/latex_guide): A user guide for secondary high school students on how to typeset in LaTeX, specifically tailored to Australian (especially the Victorian) mainstream curriculum
 * [PyLBC](https://github.com/njsch/PyLBC): Layout by Code for Python, a module for conveniently defining user interface dialogs via intelligent code rather than graphical tools
+* [py_algs-dat-structs](https://github.com/njsch/py_algs-dat-structs/): implementations of various algorithms and data structures in Python
 * [Splashkit-core](https://github.com/njsch/splashkit-core): Core code for SplashKit—beginner's all-purpose SDK
 * [LibLouis](https://github.com/njsch/liblouis/): Open-source braille translator and back-translator
-* [lbcf](https://github.com/njsch/lbcf/): Different source and output formats for the 1677-89 LBC, or 2LBCF
+* [braille-Soft](https://github.com/njsch/braille-Soft): modern port of BrailleSoft games in Python
