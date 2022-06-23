@@ -35,7 +35,7 @@ Similar reiterated information appears on [About.me](https://about.me/njschmidt)
 
 ### Projects Available for Viewing
 * [Latex-access](https://github.com/latex-access/latex-access): Contains my original [contributions](https://github.com/latex-access/latex-access/commits?author=njsch), providing easy on-the-fly braille and speech access to LaTeX documents
-  * NOTE: The [original project](http://latex-access.sourceforge.net/) is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA, or consult the repo on the above-linked Github organisation page for on-going activity.
+  * NOTE: The [original project](http://latex-access.sourceforge.net/) is not up-to-date - I have just left it here for reference.  Derek Riemer has extended my work and you can find it [here](https://github.com/derekriemer/latex-access-matrix).  This should work with more recent versions of NVDA, or consult the repo on the above-linked Github organisation page for on-going activity, taken on by [Łukasz Golonka](https://github.com/lukaszgo1) and others.
 * [Camel](https://github.com/njsch/camel/): An old MS Dos game ported to Python, translated from Rapid Euphoria
 * [nvst](https://github.com/njsch/nvst): Nonvisual Smart Terrarium, for Reptile enclosures
 * [Sensibo-cli](https://github.com/njsch/sensibo-cli): Command-line client for Sensibo hardware devices.
