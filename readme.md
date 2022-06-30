@@ -2,17 +2,15 @@
 
 The owner's identity for this account has been verified at [Keyoxide](https://keyoxide.org/6C1E7CD8370E4DF7F852968716F8388EB88796D7).
 
-[View my portfolio on Portfolium](https://portfolium.com/njschmidt/).
-
 * 🏫 I am an undergraduate Computer Science student from down under, keen to learn as much as I can.
-* 🌱 I’m currently learning
-    * Python (intermediate)
-    * C++ (elementary)
-    * C# (elementary)
-    * Arduino hardware and software (elementary)
-    * SQL (Oracle SQLPlus) &ndash; elementary)
+* 🌱 I’m currently learning:
+    * Python;
+    * C++;
+    * C#;
+    * Arduino hardware and software.
+    * SQL (Oracle SQL and MySQL;
 * 👨 I’m looking to collaborate on software development projects &ndash; whether open-source or otherwise &ndash; in Python or C++.
-* 🤔 I am very willing to learn new languages and libraries
+* 🤔 I am willing to learn new languages and libraries
 * 💬 Ask me anything...
 
 ### 📫 How to reach me:
@@ -22,7 +20,8 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
     * [SourceForge](https://sourceforge.net/u/njschmidt/)
     * [BitBucket](https://bitbucket.org/njsch/)
     * [GitLab](https://gitlab.com/njsch), or
-    * [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/), though I don't usually do much on platforms other than GitHub.
+    * [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/)
+      Note: I don't usually do much on platforms other than GitHub.
 * [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
 
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
