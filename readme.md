@@ -25,6 +25,7 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
     * [GitLab](https://gitlab.com/njsch), or
     * [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/), though I don't usually do much on platforms other than GitHub.
 * [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
+* <a rel="me" href="https://mastodon.social/@njsch">Try out Mastodon</a>
 
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
