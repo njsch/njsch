@@ -3,12 +3,14 @@
 The owner's identity for this account has been verified at [Keyoxide](https://keyoxide.org/6C1E7CD8370E4DF7F852968716F8388EB88796D7).
 
 * 🏫 I am an undergraduate Computer Science student from down under, keen to learn as much as I can.
-* 🌱 I’m currently learning:
+* 🌱 I’m currently investing in (actively developing and proficient or otherwise learning):
     * Python;
     * C++;
     * C#;
-    * Arduino hardware and software.
-    * SQL (Oracle SQL and MySQL;
+    * Arduino hardware and software;
+    * SQL (Oracle SQL and MySQL);
+    * LaTeX;
+    * Wikitext (Wikimedia) markup.
 * 👨 I’m looking to collaborate on software development projects &ndash; whether open-source or otherwise &ndash; in Python or C++.
 * 🤔 I am willing to learn new languages and libraries
 * 💬 Ask me anything...
