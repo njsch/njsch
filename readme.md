@@ -30,7 +30,6 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
 
 ### Affiliations
-* Student member of the [Australian Computer Society (ACS)](https://www.acs.org.au/) since Aug 2020
 * Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/) since Nov. 2020
 * Associate member of [Auda (AU Domain Administration)](https://www.auda.org.au/)
 * Deakin University Casual Professional, Students as Partners projects.
