@@ -25,15 +25,9 @@ The owner's identity for this account has been verified at [Keyoxide](https://ke
     * [GitLab](https://gitlab.com/njsch), or
     * [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/)
       Note: I don't usually do much on platforms other than GitHub.
-* [Connect over Facebook and / or FB Messenger](https://www.facebook.com/whatpictureisthat)
-* <a rel="me" href="https://mastodon.social/@njsch">Try out Mastodon</a>
+* [Connect over Facebook and / or FB Messenger](https://www.facebook.com/njsch7)
 
 Similar reiterated information appears on [About.me](https://about.me/njschmidt).
-
-### Affiliations
-* Student member of the [Deakin Launch Network](https://launchnetwork.deakin.edu.au/) since Nov. 2020
-* Associate member of [Auda (AU Domain Administration)](https://www.auda.org.au/)
-* Deakin University Casual Professional, Students as Partners projects.
 
 ### Projects Available for Viewing
 * [Latex-access](https://github.com/latex-access/latex-access): Contains my original [contributions](https://github.com/latex-access/latex-access/commits?author=njsch), providing easy on-the-fly braille and speech access to LaTeX documents
